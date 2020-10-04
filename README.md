@@ -18,14 +18,14 @@ npm install
 npm run start
 ```
 
+## Learn more
+
+- [Twit - Nodejs](https://github.com/ttezel/twit)
+- [Twitter API Docs](https://developer.twitter.com/en/docs)
+
 ## Author
 
 [Asaolu Elijah](https://twitter.com/asaolu_elijah)
-
-## Learn more
-
-- [Twit](https://github.com/ttezel/twit)
-- [Twitter API Docs](https://developer.twitter.com/en/docs)
 
 ### License
 
