@@ -23,10 +23,6 @@ npm run start
 - [Twit - Nodejs](https://github.com/ttezel/twit)
 - [Twitter API Docs](https://developer.twitter.com/en/docs)
 
-## Author
-
-[Asaolu Elijah](https://twitter.com/asaolu_elijah)
-
 ### License
 
 [MIT](license.md)
