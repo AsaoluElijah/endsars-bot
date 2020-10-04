@@ -15,7 +15,7 @@ npm install
 ## Run
 
 ```bash
-npm run  start
+npm run start
 ```
 
 ## Author
