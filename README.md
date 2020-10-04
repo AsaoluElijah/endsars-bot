@@ -12,7 +12,7 @@ cd endsars-bot
 npm install
 ```
 
-## Run
+## Run 🔥
 
 ```bash
 npm run start
