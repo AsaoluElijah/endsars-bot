@@ -1,6 +1,9 @@
 const bot = require("./modules/bot");
+
+bot.searchAndRetweetHashTag();
+bot.replyTopAccounts();
+
 setInterval(() => {
   bot.searchAndRetweetHashTag();
-  bot.replyTopAccounts();
 }, 300000);
 // 5 MIN
