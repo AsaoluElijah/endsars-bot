@@ -4,7 +4,7 @@ Retweets all tweet with #endSars, #EndSARSBrutality and more...
 
 ## Build setup
 
-> **Note:** Replace `modules/config.js` with your twitter app tokens, learn more [here](https://developer.twitter.com/en/docs)
+> **Note:** Edit and replace `modules/config.js` with your own twitter app tokens, learn more [here](https://developer.twitter.com/en/docs)
 
 ```bash
 git clone https://github.com/AsaoluElijah/endsars-bot.git
