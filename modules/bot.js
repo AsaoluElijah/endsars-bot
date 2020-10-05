@@ -41,7 +41,12 @@ const searchAndRetweetHashTag = (callback = null) => {
   console.log("Getting ready to retweet #endSars...");
   T.get(
     "search/tweets",
-    { q: "#EndSars", result_type: "recent", count: 30 },
+    {
+      q:
+        "(#EndSars OR #EndSarsParmanentlyNow OR #EndSARSNotBanSARS OR #EndSARSBrutality OR  #EndPoliceBrutality)",
+      result_type: "recent",
+      count: 30,
+    },
     function (err, data, response) {
       if (data) {
         data.statuses.forEach((tweet) => {
